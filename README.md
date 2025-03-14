@@ -1,1 +1,1 @@
-# SW-CPU-SD-CARD-Audio-16
+# SW-CPU-Rockchip-SD-CARD-16
