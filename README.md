@@ -10,7 +10,11 @@ Here is SD card speed test with Radxa CM5.
 
 <img width="1209" alt="result" src="https://github.com/user-attachments/assets/6d2affd1-27f9-4cf8-80fa-897fe81f9394" />
 
-(Test Results)
+(Read Test)
+
+<img width="1203" alt="write test" src="https://github.com/user-attachments/assets/ac87047b-f68c-460f-b5cd-cca81f8ccb19" />
+
+(Write Test)
 
 Radxa CM5 SD Card
 
